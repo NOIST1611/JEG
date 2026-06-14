@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:magenta_stained_glass"
+    }
+  },
+  "result": {
+    "item": "jeg_mod:magenta_glass_slab",
+    "count": 6
+  }
+}

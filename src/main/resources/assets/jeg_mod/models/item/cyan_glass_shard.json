@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jeg_mod:item/cyan_glass_shard"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "jeg_mod:lime_glass_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:lime_stained_glass",
+    "count": 1
+  }
+}

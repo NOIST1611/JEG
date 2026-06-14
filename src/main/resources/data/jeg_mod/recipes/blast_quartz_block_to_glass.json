@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": { "item": "minecraft:quartz_block" },
+  "result": "minecraft:glass",
+  "experience": 0.35,
+  "cookingtime": 120
+}

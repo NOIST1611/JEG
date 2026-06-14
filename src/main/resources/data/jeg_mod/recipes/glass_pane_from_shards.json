@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "jeg_mod:glass_shard" },
+    { "item": "jeg_mod:glass_shard" },
+    { "item": "jeg_mod:glass_shard" }
+  ],
+  "result": {
+    "item": "minecraft:glass_pane",
+    "count": 1
+  }
+}

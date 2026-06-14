@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "jeg_mod:glass_slab" }
+  ],
+  "result": {
+    "item": "jeg_mod:glass_shard",
+    "count": 2
+  }
+}

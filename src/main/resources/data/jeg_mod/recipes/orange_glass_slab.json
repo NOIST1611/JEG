@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:orange_stained_glass"
+    }
+  },
+  "result": {
+    "item": "jeg_mod:orange_glass_slab",
+    "count": 6
+  }
+}

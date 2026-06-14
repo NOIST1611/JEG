@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "key": {
+    "S": {
+      "item": "jeg_mod:green_glass_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:green_stained_glass",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jeg_mod:block/light_blue_glass_slab"
+    },
+    "type=top": {
+      "model": "jeg_mod:block/light_blue_glass_slab_top"
+    },
+    "type=double": {
+      "model": "jeg_mod:block/light_blue_glass_block"
+    }
+  }
+}
